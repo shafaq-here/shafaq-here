@@ -1,6 +1,4 @@
-## Hello World,
-### I am Shafaq, an Open Source Contributor.
-### I started my Journey in July 2021.
+
 
 <!--
 **shafaq-here/shafaq-here** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
