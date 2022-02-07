@@ -1,3 +1,4 @@
+![Shafaq Israil](https://pbs.twimg.com/profile_images/1460317524973678595/UzMJgacZ_400x400.jpg)
 # Hello World
 ## I'm Shafaq, a Junior Developer from India
 ### Backend | DevOps | Python | Java
@@ -6,6 +7,8 @@ I started my **Journey** in **September 2021**, since few months I have fallen i
 Thanks for stopping by, checkout my latest Blogs on:
 [Hashnode](https://shafaq-israil.hashnode.dev/) <br>
 Connect with me on [twitter](https://twitter.com/shafaq_israil) 
+
+- 🌱 I’m currently learning DevOps and exploring aw
 
 
 
