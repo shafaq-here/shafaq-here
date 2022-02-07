@@ -1,6 +1,12 @@
 # Hello World
 ## I'm Shafaq, a Junior Developer from India
 ### Backend | DevOps | Python | Java
+I started my **Journey** in **September 2021**, since few months I have fallen in love with **DevOps** and *CloudNativeComputingFoundation*-**CNCF** <br>
+~~This is just an example of strikethrough~~ <br>
+Thanks for stopping by, checkout my latest Blogs on:
+[Hashnode](https://shafaq-israil.hashnode.dev/) <br>
+Connect with me on [twitter](https://twitter.com/shafaq_israil) 
+
 
 
 <!--
