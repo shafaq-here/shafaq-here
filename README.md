@@ -1,6 +1,7 @@
-## Hello World,
-### I am Shafaq, an Open Source Contributor.
-### I started my Journey in July 2021.
+## Hey there, I'm Shafaq, thanks for stopping by.
+A Junior from India who loves to break stuffs and fix them again.😶‍🌫️ 
+
+
 
 <!--
 **shafaq-here/shafaq-here** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
