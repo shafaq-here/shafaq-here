@@ -1,5 +1,24 @@
-## Hey there, I'm Shafaq, thanks for stopping by.
-A Junior from India who loves to break stuffs and fix them again.😶‍🌫️ 
+## Hey there👋, I'm Shafaq, thanks for stopping by.
+A Junior from India who loves to break stuffs and fix them again
+```c
+while(!dead){
+learning++ ;
+}
+```
+
+> Technical Skills:
+- DSA🤔
+- Java✔
+- OpenSource❤
+- DevOps🎯
+- Interested in Backend Developement🛒
+
+<details>
+  <summary>:</summary>
+  jdhisjdishdisjdo
+</details>  
+
+
 
 
 
