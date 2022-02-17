@@ -17,9 +17,9 @@ learning++ ;
 
 > Connect with me:
 
-  [<img width="7%" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" alt="twitter">](https://twitter.com/shafaq_israil)
-  [<img width="7%" src="https://icons-for-free.com/iconfiles/png/512/linkedin+logo+logo+website+icon-1320190502911715717.png" alt="LinkedIn">](https://www.linkedin.com/in/mohammad-shafaq-israil-b02b9b1ba/)
-  [<img width="7%" src="https://www.shareicon.net/data/512x512/2015/09/23/106011_logo_512x512.png" alt="facebook">](https://www.facebook.com/shafaq.israil)
+  [<img width="10%" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" alt="twitter">](https://twitter.com/shafaq_israil)
+  [<img width="10%" src="https://icons-for-free.com/iconfiles/png/512/linkedin+logo+logo+website+icon-1320190502911715717.png" alt="LinkedIn">](https://www.linkedin.com/in/mohammad-shafaq-israil-b02b9b1ba/)
+  [<img width="10%" src="https://www.shareicon.net/data/512x512/2015/09/23/106011_logo_512x512.png" alt="facebook">](https://www.facebook.com/shafaq.israil)
   
  
 
