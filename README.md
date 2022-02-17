@@ -2,7 +2,7 @@
 A Junior from India who loves to break stuffs and fix them again
 ```c
 while(!dead){
-learning++ ;
+learnings++ ;
 }
 ```
 
