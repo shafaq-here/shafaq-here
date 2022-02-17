@@ -13,10 +13,12 @@ learning++ ;
 - DevOps🎯
 - Interested in Backend Developement🛒
 
-<details>
-  <summary>:</summary>
-  jdhisjdishdisjdo
-</details>  
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shafaq-here&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shafaq-here&theme=tokyonight" />
+</p>  
+
 
 
 
