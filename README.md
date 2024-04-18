@@ -6,12 +6,7 @@ learnings++ ;
 }
 ```
 
-> Technical Skills:
-- DSA🤔
-- Java✔
-- OpenSource❤
-- DevOps🎯
-- Interested in Backend Developement🛒
+
 
 
 
